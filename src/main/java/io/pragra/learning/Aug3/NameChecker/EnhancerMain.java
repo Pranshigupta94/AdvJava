@@ -6,7 +6,7 @@ public class EnhancerMain {
 //        EnhancerMain enhancerMain = new EnhancerMain();
 //        NameEnhancer doubleNameEnhancer = name -> name + name;
 //
-//        String name = "John";
+//        String name = "Pranshi";
 //        String result = enhancerMain.enhance(name, doubleNameEnhancer);
 //        System.out.println(result);
 //

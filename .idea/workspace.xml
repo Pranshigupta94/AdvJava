@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e49136a-7043-438d-8f73-9ed5c1f6dc17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/Aug3/EvenCheck/EvenMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/Aug3/EvenCheck/IFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/Aug3/EvenChecker/IEvenChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/Aug3/EvenChecker/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/Aug3/EvenChecker/Pred.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/July30/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/July30/GameMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/July30/IGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/July30/Playstation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/Aug3/TestFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/Aug6/ICalculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/pragra/learning/Aug3/NameChecker/EnhancerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/pragra/learning/Aug3/NameChecker/EnhancerMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +27,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1722810107" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1722810106" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -54,14 +66,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Demo.executor": "Run",
+    "Application.EmpMain.executor": "Run",
     "Application.EvenMain.executor": "Run",
     "Application.GameMain.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MarksMain.executor": "Run",
+    "Application.MortgageMain.executor": "Run",
     "Application.NameChecker.executor": "Run",
     "Application.NameProcessor.executor": "Run",
+    "Application.OptionalTester.executor": "Run",
+    "Application.Practice.executor": "Run",
     "Application.Pred.executor": "Run",
+    "Application.Streams.executor": "Run",
+    "Application.StudentMain.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestFun.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/PRANSHI/Softwares/lombok.jar",
     "project.structure.last.edited": "Modules",
@@ -70,26 +91,13 @@
     "settings.editor.selected.configurable": "configurable.group.build"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NameProcessor">
-    <configuration name="EvenMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.pragra.learning.Aug3.EvenCheck.EvenMain" />
+  <component name="RunManager">
+    <configuration name="MortgageMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.pragra.learning.Aug6.MortgageMain" />
       <module name="AdvJava_May" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.pragra.learning.Aug3.EvenCheck.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.pragra.learning.Aug3.EvenChecker.Main" />
-      <module name="AdvJava_May" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.pragra.learning.Aug3.EvenChecker.*" />
+          <option name="PATTERN" value="io.pragra.learning.Aug6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +131,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pred" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.pragra.learning.Aug3.EvenChecker.Pred" />
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.pragra.learning.Aug10.Streams" />
       <module name="AdvJava_May" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.pragra.learning.Aug3.EvenChecker.*" />
+          <option name="PATTERN" value="io.pragra.learning.Aug10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.pragra.learning.Aug3.TestFun" />
+      <module name="AdvJava_May" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.pragra.learning.Aug3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Streams" />
+        <item itemvalue="Application.MortgageMain" />
+        <item itemvalue="Application.TestFun" />
         <item itemvalue="Application.NameProcessor" />
         <item itemvalue="Application.NameChecker" />
-        <item itemvalue="Application.Pred" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.EvenMain" />
       </list>
     </recent_temporary>
   </component>
